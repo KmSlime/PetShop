@@ -5,9 +5,11 @@ DoAn ASP.NET
 Tất cả các admin đều có pass là A123456
 client tự đăng ký
 
-Chức năng: 
+# Chức năng: 
+
 -> Client
-	1. Trang chủ 	-> Ấn vào logo có thể về trang chủ
+
+	1. Trang chủ: 	-> Ấn vào logo có thể về trang chủ
 					-> Sử dụng boostrap để tạo banner động (Carousel) 
 					-> Các menu bar tùy chức năng: ở đây có nút icon trang chủ, thẻ giới thiệu, droplist shop và blog, giỏ hàng
 					-> Dropdown list để thu gọn menu account
