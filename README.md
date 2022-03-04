@@ -43,6 +43,7 @@ client tự đăng ký
 						- đổi mật khẩu: + nếu nhập lại mk ko giống với mk mới -> thông báo ko trùng
 										+ nếu đổi được -> thông báo đổi thành công
 						- Đăng xuất: logout khỏi tài khoản
+                        
 -> Admin
 	1. Trang chủ: coi được danh mục, sản phẩm, đơn hàng, khách hàng
 				-> Khách hàng: có thể chỉnh sửa thông tin hoặc xóa khách hàng, sắp xếp theo tên thứ tự alphabex hoặc ngày tạo tk 
