@@ -1,0 +1,2 @@
+lỗi connect database
+connect string -> nếu . ko được thì đổi thành .\SQLEXPRESS
